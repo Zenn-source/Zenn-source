@@ -8,3 +8,4 @@
 IN PROGRESS
 
 ![Zenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zenn-source&theme=tokyonight&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zenn-source)](https://github.com/Zenn-source/github-readme-stats)
