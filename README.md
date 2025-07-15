@@ -6,7 +6,7 @@
 - 🤝 I’m open to collaborating on **open source projects**
 - 📫 Reach me via:
   - [LinkedIn](#) *https://www.linkedin.com/in/mackenzie-iguiron-199620329/*
-  - ✉️ Email: *mackenzie.g.iguiron*
+  - ✉️ Email: *mackenzie.g.iguiron@gmail.com*
   - 💬 Discord: *i.zenn*
 
 ## ⚡ Fun Fact
