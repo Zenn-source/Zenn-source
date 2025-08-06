@@ -1,5 +1,9 @@
 # 👋 Hi there, I’m Zenn (@Zenn-source)
-
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+---
 ## 👀 About Me
 - 💻 I’m currently interested in **Web Development**
 - 🌱 I’m learning **JavaScript**, and planning to explore **JS frameworks** soon
