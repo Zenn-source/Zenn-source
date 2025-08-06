@@ -1,9 +1,5 @@
 # 👋 Hi there, I’m Zenn (@Zenn-source)
 
-<a href="https://www.linkedin.com/in/mackenzie-iguiron-199620329/">
-  <i class="fa-brands fa-square-linkedin"></i>
-</a>
-
 ## 👀 About Me
 - 💻 I’m currently interested in **Web Development**
 - 🌱 I’m learning **JavaScript**, and planning to explore **JS frameworks** soon
@@ -13,14 +9,14 @@
   - ✉️ Email: *mackenzie.g.iguiron@gmail.com*
   - 💬 Discord: *i.zenn*
 
-## ⚡ Fun Fact
-Still figuring that out 😄
 
----
+#
 
 ### 📈 GitHub Stats
 
-![Zenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zenn-source&theme=tokyonight&show_icons=true)
+ ![Zenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zenn-source&theme=tokyonight&show_icons=true) 
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zenn-source&theme=tokyonight&show_icons=true&layout=compact) 
 
 ### 📑 Languages
 
