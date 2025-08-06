@@ -16,7 +16,7 @@ Still figuring that out 😄
 
 ### 📈 GitHub Stats
 
-![Zenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zenn-source&theme=tokyonight&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zenn-source&layout=pie&theme=tokyonight)](https://github.com/Zenn-source/github-readme-stats)
+![Zenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zenn-source&theme=tokyonight&show_icons=true)                 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zenn-source&layout=pie&theme=tokyonight)](https://github.com/Zenn-source/github-readme-stats)
 
 
 
