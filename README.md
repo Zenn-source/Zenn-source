@@ -1,5 +1,4 @@
 # 👋 Hi there, I’m Zenn (@Zenn-source)
-
 ## 👀 About Me
 - 💻 I’m currently interested in **Web Development**
 - 🌱 I’m learning **JavaScript**, and planning to explore **JS frameworks** soon
