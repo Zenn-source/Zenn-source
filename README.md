@@ -20,6 +20,6 @@
 
 ### 📑 Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,notion,bootstrap)](https://skillicons.dev)
 ---
 
