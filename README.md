@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Zenn (@Zenn-source)
+# 👋 Hi there, I’m Mackenzie!
 
 ## 👀 About Me
 - 💻 I’m currently interested in **Web Development**
