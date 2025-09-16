@@ -26,4 +26,4 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,notion,bootstrap,jquery,nodejs,express,postman)](https://skillicons.dev)
 ---
 
-<!-- Streak Saver ANOTHER ONE (HONESTLY IM TIRED JUST WANT TO KEEP THIS STREAK)!!!! -->
+<!-- Streak Saver ANOTHER ONE (HONESTLY IM TIRED JUST WANT TO KEEP THIS STREAK)!!!! L im tired -->
