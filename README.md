@@ -18,7 +18,7 @@
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zenn-source&theme=tokyonight&show_icons=true&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Zenn-source&theme=tokyonight)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Zenn-source&theme=tokyonight)](https://git.io/streak-stats) -->
 
 
 ### 📑 Languages & Tools
