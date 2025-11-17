@@ -23,5 +23,5 @@
 
 ### 📑 Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,notion,bootstrap,jquery,nodejs,express,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,notion,bootstrap,jquery,nodejs,express,postman,react)](https://skillicons.dev)
 ---
